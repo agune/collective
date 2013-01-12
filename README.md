@@ -1,0 +1,4 @@
+collective
+==========
+
+study collective intelligence
