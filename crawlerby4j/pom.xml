@@ -3,4 +3,19 @@
   <groupId>com.agune</groupId>
   <artifactId>crawlerby4j</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>edu.uci.ics</groupId>
+  		<artifactId>crawler4j</artifactId>
+  		<version>3.5</version>
+  		<type>jar</type>
+  		<scope>compile</scope>
+  	</dependency>
+  	<dependency>
+  		<groupId>junit</groupId>
+  		<artifactId>junit</artifactId>
+  		<version>4.11</version>
+  		<scope>test</scope>
+  	</dependency>
+  </dependencies>
 </project>
